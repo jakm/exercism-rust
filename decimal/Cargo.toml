@@ -1,0 +1,9 @@
+[package]
+edition = "2018"
+name = "decimal"
+version = "0.1.0"
+
+[dependencies]
+lazy_static = "1.4.0"
+num-bigint = "0.4"
+num-traits = "0.2"
